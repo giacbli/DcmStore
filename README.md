@@ -5,7 +5,9 @@ The executable tool implements the Dicom “Storage SCP” service class and run
 Please read attached pdf file (ReadMe_DcmStore) for more details and installation instructions.
 
 Author: Giacomo Belli - 2016
+
 Health Physics Unit – AOU Careggi
+
 Florence - Italy
 
 2023 - vers. 1.1
