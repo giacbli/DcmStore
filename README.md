@@ -1,7 +1,15 @@
 # DcmStoreService  (Dicom Store Service)
 
 Lightweight and efficient server for receiving and storing Dicom objects (medical images and Radiation Dose Structured Report).
-The executable tool implements the Dicom “Storage SCP” service class and runs as an unattended background service on computers with OS MS Windows (x86/x64 platform Win 7-8-10-11).
+The executable tool implements the Dicom Storage SCP service class and runs as an unattended service on computers with OS MS Windows (x86/x64 platform Win 7-8-10-11).
+
+Some features:
+- Can receive medical images and structured reports on radiation dose in Dicom format from company PACS and radiology equipment
+
+- Creates a tree-architecture folder system (based on study ID or patient name) for archiving study images
+
+- Some simple scripts and files are provided to manage and configure the application as an automatic MS Windows service (24 hrs)
+
 Please read attached file ReadMe_DcmStore.pdf for more details and for the installation instructions.
 
 Author: Giacomo Belli -
