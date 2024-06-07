@@ -20,8 +20,8 @@ Previous release, Sep, 2023 - vers. 1.1
 ## Latest release, May, 2024 - vers. 1.3
 
 ### New features available in the latest release:
-- Possibility to increase the maximum number of worker threads to improve performance in case of concurrent client connections.
-- An option that allows image names to be indexed based on the Dicom Image Number tag, as an alternative to the cryptic naming of the image's SOPInstanceUID.
+- Customizing the number of worker threads to improve performance for concurrent client connections.
+- Indexing of image file names according to the Dicom Image Number tag, as an alternative to the cryptic name derived from the image's SOPInstanceUID.
 - Capability to create the DICOMDIR directory file for each study stored. 
 
 
