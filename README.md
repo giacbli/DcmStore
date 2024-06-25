@@ -1,7 +1,7 @@
-# DcmStoreService  (Dicom Store Service)
+# DcmStoreService  (Dicom Storage Service)
 
 A lightweight and efficient Dicom server to receive and store medical images such as CT, MRI, RX, MG, XRF, XA, NM, PET, US etc., as well as Structured Radiation Dose Reports.
-The application (C++ compiled) implements the Dicom Storage SCP class and runs on computer as an automatic MS Windows service (x86/x64 platform Win 7-8-10-11).
+The application (C++ compiled) implements the Dicom Storage SCP service class and runs on computer as an automatic MS Windows service (x86/x64 platform Win 7-8-10-11).
 
 ### Some features:
 - Can receive medical images and structured reports on radiation dose in Dicom format from company PACS and radiology equipment
