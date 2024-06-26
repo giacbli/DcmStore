@@ -8,7 +8,7 @@ The application (C++ compiled) implements the Dicom Storage SCP Service and runs
 
 - Creates a tree-architecture folder system (based on study ID or patient name) for archiving study images
 
-- Some simple scripts and files are provided to manage and configure the application as an automatic MS Windows service (24 hrs)
+- Some simple scripts and files are provided to manage and configure the application as automatic MS Windows system service (24 hrs)
 
 
 **Please read attached file ReadMe_DcmStore.pdf for more details and for the installation instructions.**
